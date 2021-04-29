@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RicsOnlineTurnipEmporium", "RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.csproj", "{21981BD3-BA20-4FFC-83EB-7AB8F87CB53F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RicsOnlineTurnipEmporium.Tests", "RicsOnlineTurnipEmporium.Tests\RicsOnlineTurnipEmporium.Tests.csproj", "{105776DB-F948-4EC4-ADB4-0B72DAA270AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21981BD3-BA20-4FFC-83EB-7AB8F87CB53F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21981BD3-BA20-4FFC-83EB-7AB8F87CB53F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21981BD3-BA20-4FFC-83EB-7AB8F87CB53F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21981BD3-BA20-4FFC-83EB-7AB8F87CB53F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{105776DB-F948-4EC4-ADB4-0B72DAA270AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{105776DB-F948-4EC4-ADB4-0B72DAA270AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{105776DB-F948-4EC4-ADB4-0B72DAA270AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{105776DB-F948-4EC4-ADB4-0B72DAA270AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {032007DC-F5A8-4187-9822-CA3E968CB6A7}
+	EndGlobalSection
+EndGlobal

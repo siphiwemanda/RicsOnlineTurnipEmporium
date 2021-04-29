@@ -1,0 +1,12 @@
+C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\bin\Debug\net5.0\RicsOnlineTurnipEmporium.deps.json
+C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\bin\Debug\net5.0\RicsOnlineTurnipEmporium.dll
+C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\bin\Debug\net5.0\ref\RicsOnlineTurnipEmporium.dll
+C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\bin\Debug\net5.0\RicsOnlineTurnipEmporium.pdb
+C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\obj\Debug\net5.0\RicsOnlineTurnipEmporium.csprojAssemblyReference.cache
+C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\obj\Debug\net5.0\RicsOnlineTurnipEmporium.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\obj\Debug\net5.0\RicsOnlineTurnipEmporium.AssemblyInfoInputs.cache
+C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\obj\Debug\net5.0\RicsOnlineTurnipEmporium.AssemblyInfo.cs
+C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\obj\Debug\net5.0\RicsOnlineTurnipEmporium.csproj.CoreCompileInputs.cache
+C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\obj\Debug\net5.0\RicsOnlineTurnipEmporium.dll
+C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\obj\Debug\net5.0\ref\RicsOnlineTurnipEmporium.dll
+C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\obj\Debug\net5.0\RicsOnlineTurnipEmporium.pdb
