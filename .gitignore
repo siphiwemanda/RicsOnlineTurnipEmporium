@@ -8,3 +8,11 @@ RicsOnlineTurnipEmporium.sln.DotSettings.user
 RicsOnlineTurnipEmporium.Tests/bin
 
 RicsOnlineTurnipEmporium.Tests/obj
+
+*.dll
+
+*.cache
+
+RicsOnlineTurnipEmporium/obj/Debug/net5.0/
+
+*.pdb
