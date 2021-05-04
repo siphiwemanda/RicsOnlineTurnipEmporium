@@ -1,103 +1,205 @@
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\bin\Debug\net5.0\testhost.dll
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\bin\Debug\net5.0\testhost.exe
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\bin\Debug\net5.0\NUnit3.TestAdapter.dll
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\bin\Debug\net5.0\NUnit3.TestAdapter.pdb
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\bin\Debug\net5.0\nunit.engine.dll
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\bin\Debug\net5.0\nunit.engine.api.dll
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\bin\Debug\net5.0\nunit.engine.core.dll
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\bin\Debug\net5.0\RicsOnlineTurnipEmporium.Tests.deps.json
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\bin\Debug\net5.0\RicsOnlineTurnipEmporium.Tests.runtimeconfig.json
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\bin\Debug\net5.0\RicsOnlineTurnipEmporium.Tests.runtimeconfig.dev.json
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\bin\Debug\net5.0\RicsOnlineTurnipEmporium.Tests.dll
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\bin\Debug\net5.0\ref\RicsOnlineTurnipEmporium.Tests.dll
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\bin\Debug\net5.0\RicsOnlineTurnipEmporium.Tests.pdb
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\bin\Debug\net5.0\Microsoft.DotNet.InternalAbstractions.dll
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\bin\Debug\net5.0\Microsoft.TestPlatform.CoreUtilities.dll
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\bin\Debug\net5.0\Microsoft.TestPlatform.CommunicationUtilities.dll
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\bin\Debug\net5.0\Microsoft.TestPlatform.CrossPlatEngine.dll
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\bin\Debug\net5.0\Microsoft.TestPlatform.Utilities.dll
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.Common.dll
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\bin\Debug\net5.0\Newtonsoft.Json.dll
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\bin\Debug\net5.0\NuGet.Frameworks.dll
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\bin\Debug\net5.0\nunit.framework.dll
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\bin\Debug\net5.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\bin\Debug\net5.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\bin\Debug\net5.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\bin\Debug\net5.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\bin\Debug\net5.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\bin\Debug\net5.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\bin\Debug\net5.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\bin\Debug\net5.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\bin\Debug\net5.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\bin\Debug\net5.0\RicsOnlineTurnipEmporium.dll
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\bin\Debug\net5.0\RicsOnlineTurnipEmporium.pdb
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\obj\Debug\net5.0\RicsOnlineTurnipEmporium.Tests.csprojAssemblyReference.cache
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\obj\Debug\net5.0\RicsOnlineTurnipEmporium.Tests.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\obj\Debug\net5.0\RicsOnlineTurnipEmporium.Tests.AssemblyInfoInputs.cache
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\obj\Debug\net5.0\RicsOnlineTurnipEmporium.Tests.AssemblyInfo.cs
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\obj\Debug\net5.0\RicsOnlineTurnipEmporium.Tests.csproj.CoreCompileInputs.cache
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\obj\Debug\net5.0\RicsOnlineTurnipEmporium.Tests.csproj.CopyComplete
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\obj\Debug\net5.0\RicsOnlineTurnipEmporium.Tests.dll
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\obj\Debug\net5.0\ref\RicsOnlineTurnipEmporium.Tests.dll
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\obj\Debug\net5.0\RicsOnlineTurnipEmporium.Tests.pdb
-C:\Users\SiphiweManda\Downloads\Design Pattern Exercise - RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium\RicsOnlineTurnipEmporium.Tests\obj\Debug\net5.0\RicsOnlineTurnipEmporium.Tests.genruntimeconfig.cache
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/testhost.dll
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/testhost.exe
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/NUnit3.TestAdapter.dll
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/NUnit3.TestAdapter.pdb
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/nunit.engine.dll
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/nunit.engine.api.dll
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/nunit.engine.core.dll
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/RicsOnlineTurnipEmporium.Tests.deps.json
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/RicsOnlineTurnipEmporium.Tests.runtimeconfig.json
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/RicsOnlineTurnipEmporium.Tests.runtimeconfig.dev.json
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/RicsOnlineTurnipEmporium.Tests.dll
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/ref/RicsOnlineTurnipEmporium.Tests.dll
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/RicsOnlineTurnipEmporium.Tests.pdb
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/Microsoft.DotNet.InternalAbstractions.dll
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/Microsoft.TestPlatform.CoreUtilities.dll
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/Microsoft.TestPlatform.Utilities.dll
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/Newtonsoft.Json.dll
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/NuGet.Frameworks.dll
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/nunit.framework.dll
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/System.Xml.XPath.XmlDocument.dll
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/RicsOnlineTurnipEmporium.dll
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/RicsOnlineTurnipEmporium.pdb
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/obj/Debug/net5.0/RicsOnlineTurnipEmporium.Tests.csprojAssemblyReference.cache
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/obj/Debug/net5.0/RicsOnlineTurnipEmporium.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/obj/Debug/net5.0/RicsOnlineTurnipEmporium.Tests.AssemblyInfoInputs.cache
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/obj/Debug/net5.0/RicsOnlineTurnipEmporium.Tests.AssemblyInfo.cs
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/obj/Debug/net5.0/RicsOnlineTurnipEmporium.Tests.csproj.CoreCompileInputs.cache
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/obj/Debug/net5.0/RicsOnlineTurnipEmporium.Tests.csproj.CopyComplete
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/obj/Debug/net5.0/RicsOnlineTurnipEmporium.Tests.dll
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/obj/Debug/net5.0/ref/RicsOnlineTurnipEmporium.Tests.dll
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/obj/Debug/net5.0/RicsOnlineTurnipEmporium.Tests.pdb
+C:/Users/SiphiweManda/Downloads/Design Pattern Exercise - RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/obj/Debug/net5.0/RicsOnlineTurnipEmporium.Tests.genruntimeconfig.cache
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/NUnit3.TestAdapter.dll
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/NUnit3.TestAdapter.pdb
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/nunit.engine.dll
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/nunit.engine.api.dll
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/nunit.engine.core.dll
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/RicsOnlineTurnipEmporium.Tests.deps.json
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/RicsOnlineTurnipEmporium.Tests.runtimeconfig.json
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/RicsOnlineTurnipEmporium.Tests.runtimeconfig.dev.json
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/RicsOnlineTurnipEmporium.Tests.dll
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/ref/RicsOnlineTurnipEmporium.Tests.dll
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/RicsOnlineTurnipEmporium.Tests.pdb
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/Microsoft.DotNet.InternalAbstractions.dll
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/Microsoft.TestPlatform.CoreUtilities.dll
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/Microsoft.TestPlatform.Utilities.dll
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/testhost.dll
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/Newtonsoft.Json.dll
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/NuGet.Frameworks.dll
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/nunit.framework.dll
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/System.Xml.XPath.XmlDocument.dll
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/RicsOnlineTurnipEmporium.dll
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/bin/Debug/net5.0/RicsOnlineTurnipEmporium.pdb
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/obj/Debug/net5.0/RicsOnlineTurnipEmporium.Tests.csprojAssemblyReference.cache
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/obj/Debug/net5.0/RicsOnlineTurnipEmporium.Tests.GeneratedMSBuildEditorConfig.editorconfig
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/obj/Debug/net5.0/RicsOnlineTurnipEmporium.Tests.AssemblyInfoInputs.cache
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/obj/Debug/net5.0/RicsOnlineTurnipEmporium.Tests.AssemblyInfo.cs
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/obj/Debug/net5.0/RicsOnlineTurnipEmporium.Tests.csproj.CoreCompileInputs.cache
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/obj/Debug/net5.0/RicsOnlineTurnipEmporium.Tests.csproj.CopyComplete
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/obj/Debug/net5.0/RicsOnlineTurnipEmporium.Tests.dll
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/obj/Debug/net5.0/ref/RicsOnlineTurnipEmporium.Tests.dll
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/obj/Debug/net5.0/RicsOnlineTurnipEmporium.Tests.pdb
+/home/siphiwe/RiderProjects/RicsOnlineTurnipEmporium/RicsOnlineTurnipEmporium.Tests/obj/Debug/net5.0/RicsOnlineTurnipEmporium.Tests.genruntimeconfig.cache
