@@ -4,3 +4,7 @@
 .vs/
 
 RicsOnlineTurnipEmporium.sln.DotSettings.user
+
+RicsOnlineTurnipEmporium.Tests/bin
+
+RicsOnlineTurnipEmporium.Tests/obj
