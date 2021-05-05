@@ -3,5 +3,6 @@
     public interface IAccountDetails
     {
         bool CanHandle(PaymentType paymentType);
+        
     }
 }
