@@ -4,9 +4,7 @@ using RicsOnlineTurnipEmporium.Domain.AccountDetails;
 
 namespace RicsOnlineTurnipEmporium.Tests.Checkout
 {
-
-
-
+    
     [TestFixture]
     public class CheckoutDebitCardTests
     {

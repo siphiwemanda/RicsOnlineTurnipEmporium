@@ -11,17 +11,16 @@ namespace RicsOnlineTurnipEmporium
         public bool MakePayment(PaymentType paymentType, decimal amount, IAccountDetails accountDetails)
         {
             var successfulPayment = false;
-            
+
 
             if (accountDetails.CanHandle(paymentType))
             {
-            
                 var clientDetails = JObject.FromObject(accountDetails);
                 clientDetails.Add("Amount", amount);
                 var payment = new FakeBitCoinPaymentServer();
                 var res = payment.Process(clientDetails.ToString());
-                    
-                
+
+
                 if (res.Contains("Success"))
                 {
                     successfulPayment = true;
@@ -31,13 +30,13 @@ namespace RicsOnlineTurnipEmporium
 
             if (accountDetails.CanHandle(paymentType))
             {
-                
                 var payment = new FakeDirectDebitPaymentServer("ROTE-0001UK");
-                
-               var clientDetails = accountDetails.AcountDetails(accountDetails);
+
+                var clientDetails = accountDetails.AcountDetails(accountDetails);
 
 
-                var res = payment.MakePayment(clientDetails["CardHolder"] ,clientDetails["CardNumber"], clientDetails["Cvv"],(double) amount);
+                var res = payment.MakePayment(clientDetails["CardHolder"], clientDetails["CardNumber"],
+                    clientDetails["Cvv"], (double) amount);
 
                 if (!string.IsNullOrEmpty(res))
                 {
@@ -45,11 +44,7 @@ namespace RicsOnlineTurnipEmporium
                     return successfulPayment;
                 }
             }
-         
-            
 
-        
-            
 
             //TODO: Make the payment
 
