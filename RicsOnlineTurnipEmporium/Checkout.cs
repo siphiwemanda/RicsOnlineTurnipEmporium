@@ -11,25 +11,48 @@ namespace RicsOnlineTurnipEmporium
         public bool MakePayment(PaymentType paymentType, decimal amount, IAccountDetails accountDetails)
         {
             var successfulPayment = false;
-
-
-            var payment = new FakeBitCoinPaymentServer();
-            JObject accountants = (JObject) JToken.FromObject(accountDetails);
-           accountants.Add("Amount", amount);
-           var res = payment.Process(accountants.ToString());
-
-
-            //var requestData = JObject.Parse(res);
-
             
-            if (res.Contains("Success"))
+
+            if (accountDetails.CanHandle(paymentType))
             {
-                successfulPayment = true;
+            
+                var clientDetails = JObject.FromObject(accountDetails);
+                clientDetails.Add("Amount", amount);
+                var payment = new FakeBitCoinPaymentServer();
+                var res = payment.Process(clientDetails.ToString());
+                    
+                
+                if (res.Contains("Success"))
+                {
+                    successfulPayment = true;
+                    return successfulPayment;
+                }
             }
+
+            if (accountDetails.CanHandle(paymentType))
+            {
+                
+                var payment = new FakeDirectDebitPaymentServer("ROTE-0001UK");
+                
+               var clientDetails = accountDetails.AcountDetails(accountDetails);
+
+
+                var res = payment.MakePayment(clientDetails["CardHolder"] ,clientDetails["CardNumber"], clientDetails["Cvv"],(double) amount);
+
+                if (!string.IsNullOrEmpty(res))
+                {
+                    successfulPayment = true;
+                    return successfulPayment;
+                }
+            }
+         
+            
+
+        
             
 
             //TODO: Make the payment
-            //call the right sver 
+
 
             return successfulPayment;
         }

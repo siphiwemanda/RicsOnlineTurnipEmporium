@@ -1,4 +1,6 @@
-﻿namespace RicsOnlineTurnipEmporium.Domain.AccountDetails
+﻿using System.Collections.Generic;
+
+namespace RicsOnlineTurnipEmporium.Domain.AccountDetails
 {
     public class BitCoinAccountDetails : IAccountDetails
     {
@@ -13,5 +15,9 @@
         public string AuthCode { get; }
 
         public bool CanHandle(PaymentType paymentType) { return paymentType == PaymentType.BitCoin; }
+        public Dictionary<string, string> AcountDetails(IAccountDetails accountDetails)
+        {
+            throw new System.NotImplementedException();
+        }
     }
 }
