@@ -1,8 +1,9 @@
 ﻿using System;
+using RicsOnlineTurnipEmporium.Domain.Factory;
 
 namespace RicsOnlineTurnipEmporium.Domain.FakePaymentServers
 {
-    public class FakeDirectDebitPaymentServer
+    public class FakeDirectDebitPaymentServer : IFakeServer
     {
         private readonly string _userId;
         public FakeDirectDebitPaymentServer(string userId)
@@ -16,5 +17,6 @@ namespace RicsOnlineTurnipEmporium.Domain.FakePaymentServers
                 throw new Exception("Invalid account ID");
             return "1234561";
         }
+
     }
 }
