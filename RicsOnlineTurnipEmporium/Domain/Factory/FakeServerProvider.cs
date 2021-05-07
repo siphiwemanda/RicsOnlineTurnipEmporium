@@ -23,7 +23,7 @@ namespace RicsOnlineTurnipEmporium.Domain.Factory
 
                 }
             }
-            if (accountDetails.CanHandle(PaymentType.DebitCard))
+            else if (accountDetails.CanHandle(PaymentType.DebitCard))
             {
                 var payment = new FakeDirectDebitPaymentServer("ROTE-0001UK");
 
@@ -39,6 +39,11 @@ namespace RicsOnlineTurnipEmporium.Domain.Factory
                     return true;
 
                 }
+            }
+
+            else if (accountDetails.CanHandle(PaymentType.PayPal))
+            {
+                return true;
             }
 
         
