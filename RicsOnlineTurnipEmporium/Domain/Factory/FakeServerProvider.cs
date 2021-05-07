@@ -1,3 +1,4 @@
+using System;
 using Newtonsoft.Json.Linq;
 using RicsOnlineTurnipEmporium.Domain.FakePaymentServers;
 using RicsOnlineTurnipEmporium.Domain;
@@ -43,7 +44,13 @@ namespace RicsOnlineTurnipEmporium.Domain.Factory
 
             else if (accountDetails.CanHandle(PaymentType.PayPal))
             {
-                return true;
+                var payment = new FakePayPalPaymentServer();
+                var clietdetails = accountDetails.AcountDetails(accountDetails);
+                var transactionID = payment.BeginTransaction("C6BE96CA-C7D4-4D36-9852-DF1B44046022");
+                payment.SubmitPayment(transactionID, clietdetails["AuthenticationToken"], (double)amount);
+                var res = payment.CommitTransaction(Guid.NewGuid().ToString());
+                return res.Success;
+                
             }
 
         

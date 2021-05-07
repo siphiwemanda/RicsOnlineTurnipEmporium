@@ -9,7 +9,10 @@ namespace RicsOnlineTurnipEmporium.Domain.AccountDetails
         public bool CanHandle(PaymentType paymentType) { return paymentType == PaymentType.PayPal; }
         public Dictionary<string, string> AcountDetails(IAccountDetails accountDetails)
         {
-            throw new System.NotImplementedException();
+            return new Dictionary<string, string>()
+            {
+                {"AuthenticationToken", AuthenticationToken}
+            };
         }
     }
 }
