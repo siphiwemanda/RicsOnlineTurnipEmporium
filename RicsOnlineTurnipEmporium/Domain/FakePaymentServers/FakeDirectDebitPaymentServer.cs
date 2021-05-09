@@ -1,4 +1,5 @@
 ﻿using System;
+using RicsOnlineTurnipEmporium.Domain.AccountDetails;
 using RicsOnlineTurnipEmporium.Domain.Factory;
 
 namespace RicsOnlineTurnipEmporium.Domain.FakePaymentServers
@@ -17,6 +18,15 @@ namespace RicsOnlineTurnipEmporium.Domain.FakePaymentServers
                 throw new Exception("Invalid account ID");
             return "1234561";
         }
+        public bool CallServer(double amount, IAccountDetails accountDetails)
+        {
+            
+            var clientDetails = accountDetails.AcountDetails(accountDetails);
 
+            var res = MakePayment(clientDetails["CardHolder"], clientDetails["CardNumber"],
+                clientDetails["Cvv"], (double) amount);
+
+            return !string.IsNullOrEmpty(res);
+        }
     }
 }

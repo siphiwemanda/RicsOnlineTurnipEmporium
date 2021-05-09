@@ -1,57 +1,22 @@
 using System;
-using Newtonsoft.Json.Linq;
 using RicsOnlineTurnipEmporium.Domain.FakePaymentServers;
-using RicsOnlineTurnipEmporium.Domain;
-using RicsOnlineTurnipEmporium.Domain.AccountDetails;
 
 namespace RicsOnlineTurnipEmporium.Domain.Factory
 {
     public class FakeServerProvider
     {
-        public static bool CallServer(PaymentType paymentType, decimal amount, IAccountDetails accountDetails)
+        public static IFakeServer CreateServer(PaymentType paymentType)
         {
-            
-            if (accountDetails.CanHandle(PaymentType.BitCoin))
+            IFakeServer fakeserver = paymentType switch
             {
-                var clientDetails = JObject.FromObject(accountDetails);
-                clientDetails.Add("Amount", amount);
-                var transaction = new FakeBitCoinPaymentServer();
-                var res = transaction.Process(clientDetails.ToString());
-                if (res.Contains("Success"))
-                {
-     
-                    return true;
+                PaymentType.BitCoin => new FakeBitCoinPaymentServer(),
+                PaymentType.DebitCard => new FakeDirectDebitPaymentServer("ROTE-0001UK"),
+                PaymentType.PayPal => new FakePayPalPaymentServer(),
+                _ => throw new ArgumentOutOfRangeException(nameof(paymentType), paymentType, null)
+            };
 
-                }
-            }
-            else if (accountDetails.CanHandle(PaymentType.DebitCard))
-            {
-                var payment = new FakeDirectDebitPaymentServer("ROTE-0001UK");
-
-                var clientDetails = accountDetails.AcountDetails(accountDetails);
-
-
-                var res = payment.MakePayment(clientDetails["CardHolder"], clientDetails["CardNumber"],
-                    clientDetails["Cvv"], (double) amount);
-
-                if (!string.IsNullOrEmpty(res))
-                {
-           
-                    return true;
-
-                }
-            }
-
-            else if (accountDetails.CanHandle(PaymentType.PayPal))
-            {
-                var payment = new FakePayPalPaymentServer();
-                var clietDetails = accountDetails.AcountDetails(accountDetails);
-                var transactionKey = payment.BeginTransaction("C6BE96CA-C7D4-4D36-9852-DF1B44046022");
-                payment.SubmitPayment(transactionKey, clietDetails["AuthenticationToken"], (double)amount);
-                var res = payment.CommitTransaction(transactionKey);
-                return res.Success;
-            }
-            return false;
+            return fakeserver;
         }
+
     }
 }

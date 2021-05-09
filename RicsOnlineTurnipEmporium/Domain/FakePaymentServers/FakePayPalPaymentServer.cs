@@ -1,9 +1,14 @@
 ﻿using System;
 using System.Collections.Generic;
+using RicsOnlineTurnipEmporium.Domain.AccountDetails;
+using RicsOnlineTurnipEmporium.Domain.Factory;
 
 namespace RicsOnlineTurnipEmporium.Domain.FakePaymentServers
 {
-    public class FakePayPalPaymentServer
+    
+    
+    
+    public class FakePayPalPaymentServer : IFakeServer
     {
         private readonly Dictionary<string,string> _transactions = new Dictionary<string, string>();
         private const string AccountId = "C6BE96CA-C7D4-4D36-9852-DF1B44046022";
@@ -23,6 +28,18 @@ namespace RicsOnlineTurnipEmporium.Domain.FakePaymentServers
             if (_transactions[transactionKey] != AccountId)
                 return new PayPalTransactionResult(false, "Invalid Account ID");
             return new PayPalTransactionResult(true, string.Empty);
+        }
+
+
+
+        public bool CallServer(double amount, IAccountDetails accountDetails)
+        {
+        
+            var clietDetails = accountDetails.AcountDetails(accountDetails);
+            var transactionKey = BeginTransaction("C6BE96CA-C7D4-4D36-9852-DF1B44046022");
+            SubmitPayment(transactionKey, clietDetails["AuthenticationToken"], (double)amount);
+            var res = CommitTransaction(transactionKey);
+            return res.Success;
         }
     }
 }
