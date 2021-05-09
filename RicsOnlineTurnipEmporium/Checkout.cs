@@ -12,7 +12,7 @@ namespace RicsOnlineTurnipEmporium
         public bool MakePayment(PaymentType paymentType, decimal amount, IAccountDetails accountDetails)
         {
            
-            var makePayment = FakeServerProvider.CallServer(paymentType,amount, accountDetails);
+            var makePayment = FakeServerProvider.CallServer(paymentType, amount, accountDetails);
 
 
 

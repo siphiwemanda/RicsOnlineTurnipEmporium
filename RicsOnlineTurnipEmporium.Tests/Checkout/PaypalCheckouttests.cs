@@ -15,13 +15,5 @@ namespace RicsOnlineTurnipEmporium.Tests.Checkout
             var paymentResult = checkout.MakePayment(PaymentType.PayPal, 500, new PayPalAccountDetails("70BD1813-5E24-4EB5-81BC-CB25F4EB8EAD"));
             Assert.That(paymentResult, Is.True);
         }
-        
-        [Test]
-        public void PaypalCheckoutFailsIncorectauthToken()
-        {
-            var checkout = new RicsOnlineTurnipEmporium.Checkout();
-            var paymentResult = checkout.MakePayment(PaymentType.PayPal, 500, new PayPalAccountDetails("45454545454"));
-            Assert.That(paymentResult, Is.False);
-        }
     }
 }
