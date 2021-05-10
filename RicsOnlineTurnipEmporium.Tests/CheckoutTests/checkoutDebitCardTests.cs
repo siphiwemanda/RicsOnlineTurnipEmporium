@@ -1,7 +1,6 @@
 using NUnit.Framework;
 using RicsOnlineTurnipEmporium.Domain;
 using RicsOnlineTurnipEmporium.Domain.AccountDetails;
-using RicsOnlineTurnipEmporium.Domain.FakePaymentServers;
 
 namespace RicsOnlineTurnipEmporium.Tests.CheckoutTests
 {
