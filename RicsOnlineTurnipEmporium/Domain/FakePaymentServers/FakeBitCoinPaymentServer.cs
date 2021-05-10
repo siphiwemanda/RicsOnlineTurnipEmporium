@@ -19,7 +19,6 @@ namespace RicsOnlineTurnipEmporium.Domain.FakePaymentServers
             return "{\"Status\":\"Success\"}";
         }
         
-
         public bool CallServer(double amount, IAccountDetails accountDetails)
         {
             var clientDetails = JObject.FromObject(accountDetails);

@@ -33,7 +33,7 @@ namespace RicsOnlineTurnipEmporium.Domain.FakePaymentServers
         {
             var clientDetails = accountDetails.AccountDetails(accountDetails);
             var transactionKey = BeginTransaction("C6BE96CA-C7D4-4D36-9852-DF1B44046022");
-            SubmitPayment(transactionKey, clientDetails["AuthenticationToken"], (double) amount);
+            SubmitPayment(transactionKey, clientDetails["AuthenticationToken"], amount);
             var res = CommitTransaction(transactionKey);
             return res.Success;
         }
