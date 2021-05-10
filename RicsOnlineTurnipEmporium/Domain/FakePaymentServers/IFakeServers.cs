@@ -1,6 +1,6 @@
 using RicsOnlineTurnipEmporium.Domain.AccountDetails;
 
-namespace RicsOnlineTurnipEmporium.Domain.Factory
+namespace RicsOnlineTurnipEmporium.Domain.FakePaymentServers
 {
     public interface IFakeServer
     {
