@@ -14,9 +14,9 @@ namespace RicsOnlineTurnipEmporium.Domain.AccountDetails
         private string CardNumber { get; }
         private string Cvv { get; }
         public bool CanHandle(PaymentType paymentType) { return paymentType == PaymentType.DebitCard; }
-        public Dictionary<string, string> AcountDetails(IAccountDetails accountDetails)
+        public Dictionary<string, string> AccountDetails(IAccountDetails accountDetails)
         {
-          return new Dictionary<string, string>()
+          return new()
             {
                 {"CardHolder", CardHolder},
                 {"CardNumber", CardNumber},

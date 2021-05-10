@@ -6,7 +6,7 @@ namespace RicsOnlineTurnipEmporium.Domain.AccountDetails
     {
         bool CanHandle(PaymentType paymentType);
 
-        Dictionary<string,string> AcountDetails(IAccountDetails accountDetails);
+        Dictionary<string,string> AccountDetails(IAccountDetails accountDetails);
 
 
 

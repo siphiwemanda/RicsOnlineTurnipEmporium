@@ -21,7 +21,7 @@ namespace RicsOnlineTurnipEmporium.Domain.FakePaymentServers
         public bool CallServer(double amount, IAccountDetails accountDetails)
         {
             
-            var clientDetails = accountDetails.AcountDetails(accountDetails);
+            var clientDetails = accountDetails.AccountDetails(accountDetails);
 
             var res = MakePayment(clientDetails["CardHolder"], clientDetails["CardNumber"],
                 clientDetails["Cvv"], (double) amount);

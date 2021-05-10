@@ -15,7 +15,7 @@ namespace RicsOnlineTurnipEmporium.Domain.AccountDetails
         public string AuthCode { get; }
 
         public bool CanHandle(PaymentType paymentType) { return paymentType == PaymentType.BitCoin; }
-        public Dictionary<string, string> AcountDetails(IAccountDetails accountDetails)
+        public Dictionary<string, string> AccountDetails(IAccountDetails accountDetails)
         {
             throw new System.NotImplementedException();
         }

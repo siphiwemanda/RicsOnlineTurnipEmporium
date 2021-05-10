@@ -1,21 +1,22 @@
 using System;
+using RicsOnlineTurnipEmporium.Domain.AccountDetails;
 using RicsOnlineTurnipEmporium.Domain.FakePaymentServers;
 
 namespace RicsOnlineTurnipEmporium.Domain.Factory
 {
     public class FakeServerProvider
     {
-        public static IFakeServer CreateServer(PaymentType paymentType)
+        public static IFakeServer CreateServer(PaymentType paymentType, IAccountDetails account)
         {
-            IFakeServer fakeserver = paymentType switch
+            IFakeServer fakeServer = paymentType switch
             {
-                PaymentType.BitCoin => new FakeBitCoinPaymentServer(),
-                PaymentType.DebitCard => new FakeDirectDebitPaymentServer("ROTE-0001UK"),
-                PaymentType.PayPal => new FakePayPalPaymentServer(),
+                PaymentType.BitCoin when account.CanHandle(paymentType) => new FakeBitCoinPaymentServer(),
+                PaymentType.PayPal when account.CanHandle(paymentType) => new FakePayPalPaymentServer(),
+                PaymentType.DebitCard when account.CanHandle(paymentType) => new FakeDirectDebitPaymentServer("ROTE-0001UK"),
                 _ => throw new ArgumentOutOfRangeException(nameof(paymentType), paymentType, null)
             };
 
-            return fakeserver;
+            return fakeServer;
         }
 
     }
