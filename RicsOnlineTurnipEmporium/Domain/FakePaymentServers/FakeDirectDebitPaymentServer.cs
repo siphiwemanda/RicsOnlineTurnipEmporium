@@ -3,7 +3,7 @@ using RicsOnlineTurnipEmporium.Domain.AccountDetails;
 
 namespace RicsOnlineTurnipEmporium.Domain.FakePaymentServers
 {
-    public class FakeDirectDebitPaymentServer : IFakeServer
+    public class FakeDirectDebitPaymentServer
     {
         private readonly string _userId;
         public FakeDirectDebitPaymentServer(string userId)
@@ -16,16 +16,6 @@ namespace RicsOnlineTurnipEmporium.Domain.FakePaymentServers
             if(_userId != "ROTE-0001UK")
                 throw new Exception("Invalid account ID");
             return "1234561";
-        }
-        public bool CallServer(double amount, IAccountDetails accountDetails)
-        {
-            
-            var clientDetails = accountDetails.AccountDetails(accountDetails);
-
-            var res = MakePayment(clientDetails["CardHolder"], clientDetails["CardNumber"],
-                clientDetails["Cvv"], (double) amount);
-
-            return !string.IsNullOrEmpty(res);
         }
     }
 }

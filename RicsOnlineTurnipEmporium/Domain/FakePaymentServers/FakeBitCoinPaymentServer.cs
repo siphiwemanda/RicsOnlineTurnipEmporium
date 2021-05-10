@@ -3,7 +3,7 @@ using RicsOnlineTurnipEmporium.Domain.AccountDetails;
 
 namespace RicsOnlineTurnipEmporium.Domain.FakePaymentServers
 {
-    public class FakeBitCoinPaymentServer : IFakeServer
+    public class FakeBitCoinPaymentServer
     {
         public string Process(string request)
         {
@@ -18,12 +18,5 @@ namespace RicsOnlineTurnipEmporium.Domain.FakePaymentServers
             return "{\"Status\":\"Success\"}";
         }
         
-        public bool CallServer(double amount, IAccountDetails accountDetails)
-        {
-            var clientDetails = JObject.FromObject(accountDetails);
-            clientDetails.Add("Amount", amount);
-            var res = Process(clientDetails.ToString());
-            return res.Contains("Success");
-        }
     }
 }

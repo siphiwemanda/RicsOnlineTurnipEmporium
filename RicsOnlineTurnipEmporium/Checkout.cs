@@ -8,10 +8,10 @@ namespace RicsOnlineTurnipEmporium
     {
         public bool MakePayment(PaymentType paymentType, decimal amount, IAccountDetails accountDetails)
         {
-            var server = FakeServerProvider.CreateServer(paymentType, accountDetails);
-            var paymentResult = server.CallServer((double) amount, accountDetails);
+            var paymentProvider = ServerProviderFactory.CreatePaymentProvider(paymentType, accountDetails);
+            var result = paymentProvider.MakePayment((double)amount, accountDetails);
 
-            return paymentResult;
+            return result;
         }
     }
 }
