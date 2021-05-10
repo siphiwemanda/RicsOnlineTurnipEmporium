@@ -1,5 +1,6 @@
 ﻿using RicsOnlineTurnipEmporium.Domain;
 using RicsOnlineTurnipEmporium.Domain.AccountDetails;
+using RicsOnlineTurnipEmporium.Domain.Factory;
 
 namespace RicsOnlineTurnipEmporium
 {
@@ -7,11 +8,10 @@ namespace RicsOnlineTurnipEmporium
     {
         public bool MakePayment(PaymentType paymentType, decimal amount, IAccountDetails accountDetails)
         {
-            var successfulPayment = false;
+            var server = FakeServerProvider.CreateServer(paymentType, accountDetails);
+            var paymentResult = server.CallServer((double) amount, accountDetails);
 
-            //TODO: Make the payment
-
-            return successfulPayment;
+            return paymentResult;
         }
     }
 }

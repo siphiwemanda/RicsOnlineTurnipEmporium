@@ -1,8 +1,10 @@
 ﻿using Newtonsoft.Json.Linq;
+using RicsOnlineTurnipEmporium.Domain.AccountDetails;
+using RicsOnlineTurnipEmporium.Domain.Factory;
 
 namespace RicsOnlineTurnipEmporium.Domain.FakePaymentServers
 {
-    public class FakeBitCoinPaymentServer
+    public class FakeBitCoinPaymentServer : IFakeServer
     {
         public string Process(string request)
         {
@@ -15,6 +17,14 @@ namespace RicsOnlineTurnipEmporium.Domain.FakePaymentServers
             if ((decimal) requestData.SelectToken("Amount") > 1)
                 return "{\"Status\":\"Failure\", \"ErrorMessage\":\"Transaction to large\"}";
             return "{\"Status\":\"Success\"}";
+        }
+        
+        public bool CallServer(double amount, IAccountDetails accountDetails)
+        {
+            var clientDetails = JObject.FromObject(accountDetails);
+            clientDetails.Add("Amount", amount);
+            var res = Process(clientDetails.ToString());
+            return res.Contains("Success");
         }
     }
 }
