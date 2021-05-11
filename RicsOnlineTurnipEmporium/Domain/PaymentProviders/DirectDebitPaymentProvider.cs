@@ -8,14 +8,13 @@ namespace RicsOnlineTurnipEmporium.Domain.PaymentProviders
     {
         public bool MakePayment(double amount, IAccountDetails accountDetails)
         {
-            var directDebirPaymentServer = new FakeDirectDebitPaymentServer("ROTE-0001UK");
+            var directDebitPaymentServer = new FakeDirectDebitPaymentServer("ROTE-0001UK");
             if (accountDetails is not DirectDebitAccountDetails directDebit)
             {
-
-                throw new Exception("wrong type");
+                throw new Exception("Account type is not correct");
             }
 
-            var res = directDebirPaymentServer.MakePayment(directDebit.CardHolder, directDebit.CardNumber,
+            var res = directDebitPaymentServer.MakePayment(directDebit.CardHolder, directDebit.CardNumber,
                 directDebit.Cvv, amount);
 
             return !string.IsNullOrEmpty(res);

@@ -11,8 +11,9 @@ namespace RicsOnlineTurnipEmporium.Domain.PaymentProviders
             var payPalPaymentServer = new FakePayPalPaymentServer();
             if (accountDetails is not PayPalAccountDetails payPalAccountDetails)
             {
-                throw new Exception("test");
+                throw new Exception("Account type is not correct");
             }
+
             var transactionKey = payPalPaymentServer.BeginTransaction("C6BE96CA-C7D4-4D36-9852-DF1B44046022");
             payPalPaymentServer.SubmitPayment(transactionKey, payPalAccountDetails.AuthenticationToken, amount);
             var res = payPalPaymentServer.CommitTransaction(transactionKey);

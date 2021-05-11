@@ -1,10 +1,11 @@
-﻿using Newtonsoft.Json.Linq;
+﻿using System;
+using Newtonsoft.Json.Linq;
 using RicsOnlineTurnipEmporium.Domain.AccountDetails;
 using RicsOnlineTurnipEmporium.Domain.FakePaymentServers;
 
 namespace RicsOnlineTurnipEmporium.Domain.PaymentProviders
 {
-    public class BitCoinPaymentProvider: IPaymentProviders
+    public class BitCoinPaymentProvider : IPaymentProviders
     {
         public bool MakePayment(double amount, IAccountDetails accountDetails)
         {
