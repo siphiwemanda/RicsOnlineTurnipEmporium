@@ -3,7 +3,7 @@ using RicsOnlineTurnipEmporium.Domain.AccountDetails;
 
 namespace RicsOnlineTurnipEmporium.Domain.FakePaymentServers
 {
-    public class FakeBitCoinPaymentServer
+    public class FakeBitCoinPaymentServer : IFakeBitCoinPaymentServer
     {
         public string Process(string request)
         {
